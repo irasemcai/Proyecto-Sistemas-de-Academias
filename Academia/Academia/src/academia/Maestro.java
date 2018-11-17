@@ -4,4 +4,5 @@ public class Maestro {
 	private String name;
 	private String edad;
 	public String direccion;
+	public String papas;
 }
